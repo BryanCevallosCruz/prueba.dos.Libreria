@@ -1,0 +1,12 @@
+C:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\proyectos\prueba.dos\src\Libreria.Domain\bin\Debug\net6.0\Libreria.Domain.deps.json
+C:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\proyectos\prueba.dos\src\Libreria.Domain\bin\Debug\net6.0\Libreria.Domain.dll
+C:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\proyectos\prueba.dos\src\Libreria.Domain\bin\Debug\net6.0\Libreria.Domain.pdb
+C:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\proyectos\prueba.dos\src\Libreria.Domain\obj\Debug\net6.0\Libreria.Domain.csproj.AssemblyReference.cache
+C:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\proyectos\prueba.dos\src\Libreria.Domain\obj\Debug\net6.0\Libreria.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\proyectos\prueba.dos\src\Libreria.Domain\obj\Debug\net6.0\Libreria.Domain.AssemblyInfoInputs.cache
+C:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\proyectos\prueba.dos\src\Libreria.Domain\obj\Debug\net6.0\Libreria.Domain.AssemblyInfo.cs
+C:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\proyectos\prueba.dos\src\Libreria.Domain\obj\Debug\net6.0\Libreria.Domain.csproj.CoreCompileInputs.cache
+C:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\proyectos\prueba.dos\src\Libreria.Domain\obj\Debug\net6.0\Libreria.Domain.dll
+C:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\proyectos\prueba.dos\src\Libreria.Domain\obj\Debug\net6.0\refint\Libreria.Domain.dll
+C:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\proyectos\prueba.dos\src\Libreria.Domain\obj\Debug\net6.0\Libreria.Domain.pdb
+C:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\proyectos\prueba.dos\src\Libreria.Domain\obj\Debug\net6.0\ref\Libreria.Domain.dll

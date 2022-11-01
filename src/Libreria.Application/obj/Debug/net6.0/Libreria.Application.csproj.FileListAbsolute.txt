@@ -1,0 +1,15 @@
+c:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\proyectos\prueba.dos\src\Libreria.Application\bin\Debug\net6.0\Libreria.Application.deps.json
+c:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\proyectos\prueba.dos\src\Libreria.Application\bin\Debug\net6.0\Libreria.Application.dll
+c:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\proyectos\prueba.dos\src\Libreria.Application\bin\Debug\net6.0\Libreria.Application.pdb
+c:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\proyectos\prueba.dos\src\Libreria.Application\bin\Debug\net6.0\Libreria.Domain.dll
+c:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\proyectos\prueba.dos\src\Libreria.Application\bin\Debug\net6.0\Libreria.Domain.pdb
+c:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\proyectos\prueba.dos\src\Libreria.Application\obj\Debug\net6.0\Libreria.Application.csproj.AssemblyReference.cache
+c:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\proyectos\prueba.dos\src\Libreria.Application\obj\Debug\net6.0\Libreria.Application.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\proyectos\prueba.dos\src\Libreria.Application\obj\Debug\net6.0\Libreria.Application.AssemblyInfoInputs.cache
+c:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\proyectos\prueba.dos\src\Libreria.Application\obj\Debug\net6.0\Libreria.Application.AssemblyInfo.cs
+c:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\proyectos\prueba.dos\src\Libreria.Application\obj\Debug\net6.0\Libreria.Application.csproj.CoreCompileInputs.cache
+c:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\proyectos\prueba.dos\src\Libreria.Application\obj\Debug\net6.0\Libreria.Application.csproj.CopyComplete
+c:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\proyectos\prueba.dos\src\Libreria.Application\obj\Debug\net6.0\Libreria.Application.dll
+c:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\proyectos\prueba.dos\src\Libreria.Application\obj\Debug\net6.0\refint\Libreria.Application.dll
+c:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\proyectos\prueba.dos\src\Libreria.Application\obj\Debug\net6.0\Libreria.Application.pdb
+c:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\proyectos\prueba.dos\src\Libreria.Application\obj\Debug\net6.0\ref\Libreria.Application.dll
